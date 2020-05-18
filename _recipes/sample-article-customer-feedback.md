@@ -1,7 +1,7 @@
 ---
 title: "Customer feedback (sample article)"
 image: 
-  path: /assets/pillar-content2.png
+  path: /assets/customer-feedback.png
   thumbnail: /assets/pillar-content2.png
 ---
 
