@@ -2,7 +2,7 @@
 title: "Customer feedback (sample article)"
 image: 
   path: /assets/customer-feedback.png
-  thumbnail: /assets/pillar-content2.png
+  thumbnail: /assets/customer-feedback.png
 ---
 
 Imagine yourself as the town baker in some city of old. You are passionate about making that
