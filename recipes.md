@@ -3,7 +3,7 @@ title: Portfolio
 layout: collection
 permalink: /recipes/
 collection: recipes
-entries_layout: grid
+entries_layout:
 ---
 
 Muestrario de artículos, proyectos y clases.
