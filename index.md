@@ -1,5 +1,5 @@
 ---
 layout: home
 paginate: true
-image: /assets/banner2.png
+image: /assets/banner3.png
 ---
