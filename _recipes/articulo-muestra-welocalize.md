@@ -1,8 +1,8 @@
 ---
 title: "Actividades divertidas en Montevideo (artículo de muestra)"
 image: 
-  path: /assets/customer-feedback.png
-  thumbnail: /assets/customer-feedback.png
+  path: /assets/actividadesmdeo.png
+  thumbnail: /assets/actividadesmdeo.png
 ---
 
 ## Actividades divertidas en la ciudad de Montevideo
