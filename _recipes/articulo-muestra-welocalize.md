@@ -5,7 +5,6 @@ image:
   thumbnail: /assets/actividadesmdeo.png
 ---
 
-## Actividades divertidas en la ciudad de Montevideo
 Tal vez Montevideo no sea la primera alternativa que nos venga a la mente cuando pensamos en qué hacer para pasarla bien en la ciudad, pero sin lugar a dudas tiene sus encantos y joyitas ocultas que a veces hasta pasan desapercibidas para sus propios habitantes locales. Aquí te contamos algunas de ellas.
 
 ### Paseo céntrico
