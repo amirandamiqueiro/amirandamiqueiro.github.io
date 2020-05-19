@@ -63,6 +63,7 @@ Later, we will have to learn the verbs SER and ESTAR (TO BE in English). Those v
 ## Conversation Examples
 
 会話
+
 1)
 Makiko: Hola, ¿qué tal? Me llamo Makiko. Soy de Japón, pero ahora vivo en Uruguay.
 
