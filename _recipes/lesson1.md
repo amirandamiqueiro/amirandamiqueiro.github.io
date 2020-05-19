@@ -103,25 +103,35 @@ El gusto es mío = どうぞよろしく
 
 3)
 Juan: Hola, ¿cómo estás Pedro? ¡Tanto tiempo!
+
 Pedro: Bien, ¿y tú?
-Juan: Muy bien, gracias. Hace tiempo que no nos vemos, sí
+
+Juan: Muy bien, gracias.
 
 ¿Cómo estás? =　お元気ですか
+
 ¡Tanto tiempo! = ひさしぶりですね
+
 Bien = 元気です
+
 ¿y tú? = あなたは？
+
 Gracias = ありがとう (Muchas gracias = ありがとうございます)
 
 
-In Japanese, お元気ですか would translate to Spanish as “¿Está bien?” (formal). But in general, we use that expression to ask if the other person is OK because something happened, or if we perceive that he/she is unwell.
+In Japanese, お元気ですか would translate to Spanish as _¿Está bien?_ (formal). But in general, we use that expression to ask if the other person is OK because something happened, or if we perceive that he/she is unwell.
 
 4)
 (もんだいがある)
+
 Juan: ¿Estás bien?
+
 Pedro: Sí, estoy bien / Más o menos / No, no estoy bien
 
 Sí, estoy bien = 大丈夫です
-Más o menos = えいごのso-so
+
+Más o menos = えいごの (so-so)
+
 No, no estoy bien = いいえ、よくないです
 
 ##### _Info_
