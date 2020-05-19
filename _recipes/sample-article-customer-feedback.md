@@ -57,5 +57,6 @@ and deliver its best possible version.
 ##### _Info_
 - _Article about automatic keyword analysis using AI and machine learning for customer feedback._
 - _Takes into account a brief, style guide and brand personality._
+- _Cathegory: Content writing._
 - _Length: ~500 words._
 
