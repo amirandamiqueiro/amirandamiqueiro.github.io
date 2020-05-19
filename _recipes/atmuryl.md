@@ -1,8 +1,8 @@
 ---
 title: "Atmuryl (ES)"
 image: 
-  path: /assets/atmuryl.png
-  thumbnail: /assets/atmuryl.png
+  path: /assets/atmuryldis.png
+  thumbnail: /assets/atmuryldis.png
 ---
 
 Redacción de contenido para el sitio web de Atmuryl.
