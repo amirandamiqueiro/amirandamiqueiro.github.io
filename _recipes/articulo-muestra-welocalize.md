@@ -1,5 +1,5 @@
 ---
-title: "Actividades divertidas en Montevideo (artículo de muestra)"
+title: "Actividades divertidas en Montevideo (ES)"
 image: 
   path: /assets/actividadesmdeo.png
   thumbnail: /assets/actividadesmdeo.png
