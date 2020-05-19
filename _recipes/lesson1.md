@@ -56,7 +56,9 @@ Los perros son lindos	(たくさんの犬があります)
 
 So, before we go further, it’s important to remember that in Spanish S1 is not only a word, but a group of words that starts with an article (definite or indefinite) which is followed by a “main word”. Also, that main word has the property of having a gender (masculine or feminine), and a number (singular or plural).
 
-
+![no-alignment]({{ site.url }}{{ site.baseurl }}/assets/S1.1.png)
+![no-alignment]({{ site.url }}{{ site.baseurl }}/assets/S1.2.png)
+![no-alignment]({{ site.url }}{{ site.baseurl }}/assets/S1.3.png)
 
 Later, we will have to learn the verbs _SER_ and _ESTAR_ (TO BE in English). Those verbs are the Spanish equivalent of the Japanese structure **S1 は　S2 です**. But as S1 is in general a little more complicated in Spanish than in Japanese, we have to deal only with it first.
 
