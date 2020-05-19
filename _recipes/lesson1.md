@@ -5,7 +5,7 @@ image:
   thumbnail: /assets/japanese.png
 ---
 
-When we communicate, we use sentences. In Spanish, a sentence has two components: a subject (called sujeto) and a predicament about that subject (called predicado).
+When we communicate, we use sentences. In Spanish, a sentence has two components: a subject (called _sujeto_) and a predicament about that subject (called _predicado_).
 If we think of a basic sentence in japanese, we have the following structure:
 
 **S1 は　S2 です**
@@ -17,7 +17,7 @@ Now, in Japanese, both following sentences are correct:
 私はきょうしです
 花はきれいです
 
-But in Spanish, S1 and S2 normally are names1 (or nouns　in general). And nouns (名詞) need a definite or indefinite article before them.
+But in Spanish, S1 and S2 normally are names (or nouns　in general). And nouns (名詞) need a definite or indefinite article before them.
 
 Note: 花はきれいです is not of the form **S1 は　S2 です**, but **S1 は　A2 です**, being A2 an adjective (形容詞). But the focus here is the general structure and the nouns.
 
@@ -30,14 +30,14 @@ The second example is wrong, because the article is missing in S1 (S1 = 花 in J
 
 花はきれいです	**La** flor es linda (OK)
 
-Note also that, although we said before that the adjective was “lindo” (きれい = lindo), in the example we wrote “linda”. That is because, as we will see, adjectives (and articles) agrees with the noun in gender and number.
+Note also that, although we said before that the adjective was _lindo_ (きれい = lindo), in the example we wrote _linda_. That is because, as we will see, adjectives (and articles) agrees with the noun in gender and number.
 
 In Spanish, nouns can be either masculine or feminine in gender. That is a property that doesn’t exist in Japanese. For example, we say:
 
 花はきれいです
 犬はきれいです
 
-But in Spanish, 花 (flor) is feminine, and 犬 (perro) is masculine. Thus, we have:
+But in Spanish, 花 (_flor_) is feminine, and 犬 (_perro_) is masculine. Thus, we have:
 
 La flor es linda
 El perro es lindo
@@ -58,7 +58,7 @@ So, before we go further, it’s important to remember that in Spanish S1 is not
 
 
 
-Later, we will have to learn the verbs SER and ESTAR (TO BE in English). Those verbs are the Spanish equivalent of the Japanese structure **S1 は　S2 です**. But as S1 is in general a little more complicated in Spanish than in Japanese, we have to deal only with it first.
+Later, we will have to learn the verbs _SER_ and _ESTAR_ (TO BE in English). Those verbs are the Spanish equivalent of the Japanese structure **S1 は　S2 です**. But as S1 is in general a little more complicated in Spanish than in Japanese, we have to deal only with it first.
 
 ## Conversation Examples
 
