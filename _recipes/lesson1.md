@@ -17,13 +17,14 @@ Now, in Japanese, both following sentences are correct:
 私はきょうしです
 花はきれいです
 
-But in Spanish, S1 and S2 normally are names (or nouns　in general). And nouns (名詞) need a definite or indefinite article before them.
+But in Spanish, S1 and S2 normally are names (or nouns in general). And nouns (名詞) need a definite or indefinite article before them.
 
 Note: 花はきれいです is not of the form **S1 は　S2 です**, but **S1 は　A2 です**, being A2 an adjective (形容詞). But the focus here is the general structure and the nouns.
 
 Thus, knowing that きょうし = profesor, 花 = flor, and きれい = lindo, we have:
 
 私はきょうしです	Yo soy profesor (OK)
+
 花はきれいです	Flor es linda (×)	
 
 The second example is wrong, because the article is missing in S1 (S1 = 花 in Japanese). A correct Spanish example would be:
@@ -40,6 +41,7 @@ In Spanish, nouns can be either masculine or feminine in gender. That is a prope
 But in Spanish, 花 (_flor_) is feminine, and 犬 (_perro_) is masculine. Thus, we have:
 
 La flor es linda
+
 El perro es lindo
 
 We will have to deal with adjectives soon, but for now, let’s focus on the nouns, which in Spanish must have an article before them.
@@ -52,6 +54,7 @@ In addition to gender, Spanish nouns can be singular or plural. Again, in Japane
 But in Spanish, the sentence change a little if we are referring to one dog or many:
 
 El perro es lindo	(犬は一つがあります)
+
 Los perros son lindos	(たくさんの犬があります)
 
 So, before we go further, it’s important to remember that in Spanish S1 is not only a word, but a group of words that starts with an article (definite or indefinite) which is followed by a “main word”. Also, that main word has the property of having a gender (masculine or feminine), and a number (singular or plural).
