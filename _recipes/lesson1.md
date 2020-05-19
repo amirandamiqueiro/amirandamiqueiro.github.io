@@ -66,7 +66,7 @@ Later, we will have to learn the verbs _SER_ and _ESTAR_ (TO BE in English). Tho
 
 ## Conversation Examples
 
-会話
+**会話**
 
 1)
 Makiko: Hola, ¿qué tal? Me llamo Makiko. Soy de Japón, pero ahora vivo en Uruguay.
