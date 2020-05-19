@@ -77,19 +77,28 @@ Makiko: Hola, ¿qué tal? Me llamo Makiko. Soy de Japón, pero ahora vivo en Uru
 
 Soy de Japón = 日本から来ました
 (Alternative: soy japonés = 日本人です)
+
 Pero = でも
+
 Ahora = 今
+
 Vivo en Uruguay = ウルグアイにすんでいます
 
 2)
 Juan: Hola, ¿qué tal?
+
 Pedro: ¿Qué tal? Me llamo Pedro, ¿y usted?
+
 Juan: Mi nombre es Juan. Mucho gusto en conocerlo.
+
 Pedro: El gusto es mío.
 
 ¿Qué tal? = ¿Cómo está? (formal) = ¿Cómo estás? (informal)
+
 Me llamo [...] = Mi nombre es […] = 私は[...]です
+
 Mucho gusto en conocerlo = はじめまして
+
 El gusto es mío = どうぞよろしく
 
 3)
