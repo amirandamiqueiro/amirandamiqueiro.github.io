@@ -1,5 +1,5 @@
 ---
-title: "Customer feedback (sample article)"
+title: "Customer feedback (EN)"
 image: 
   path: /assets/customer-feedback.png
   thumbnail: /assets/customer-feedback.png
