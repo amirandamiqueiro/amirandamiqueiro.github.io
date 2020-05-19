@@ -20,6 +20,6 @@ Montevideo no será la más conocida internacionalmente Punta del Este, ni algun
 
 ##### _Información_
 - _Artículo sobre actividades divertidas para realizar en la ciudad de Montevideo._
-- _Se tiene en consideración una identidad de marca y prácticas de SEO._
+- _Se tiene en consideración una identidad de marca y prácticas de SEO (Search Engine Optimization)._
 - _Categoría: Redacción creativa._
 - _Largo: ~450 palabras._
