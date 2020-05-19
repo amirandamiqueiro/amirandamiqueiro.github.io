@@ -1,8 +1,8 @@
 ---
 title: "Sample Spanish Lesson (EN-JP)"
 image: 
-  path: /assets/japanese.png
-  thumbnail: /assets/japanese.png
+  path: /assets/japanese2.png
+  thumbnail: /assets/japanese2.png
 ---
 
 When we communicate, we use sentences. In Spanish, a sentence has two components: a subject (called _sujeto_) and a predicament about that subject (called _predicado_).
