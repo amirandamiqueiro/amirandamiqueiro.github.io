@@ -1,8 +1,8 @@
 ---
-title: "Sample Spanish Lesson"
+title: "Sample Spanish Lesson (EN-JP)"
 image: 
-  path: /assets/customer-feedback.png
-  thumbnail: /assets/customer-feedback.png
+  path: /assets/japanese.png
+  thumbnail: /assets/japanese.png
 ---
 
 When we communicate, we use sentences. In Spanish, a sentence has two components: a subject (called sujeto) and a predicament about that subject (called predicado).
@@ -107,7 +107,6 @@ Más o menos = えいごのso-so
 No, no estoy bien = いいえ、よくないです
 
 ##### _Info_
-- _Article about automatic keyword analysis using AI and machine learning for customer feedback._
-- _Takes into account a brief, style guide and brand personality._
-- _Cathegory: Content writing._
-- _Length: ~500 words._
+- _Sample Spanish lesson for Japanese Students._
+- _Category: Teaching._
+
