@@ -49,6 +49,7 @@ We will have to deal with adjectives soon, but for now, let’s focus on the nou
 In addition to gender, Spanish nouns can be singular or plural. Again, in Japanese the sentence is the same when we are referring, for example, to one dog or many.
 
 犬はきれいです	(犬は一つがあります)
+
 犬はきれいです	(たくさんの犬があります)
 
 But in Spanish, the sentence change a little if we are referring to one dog or many:
