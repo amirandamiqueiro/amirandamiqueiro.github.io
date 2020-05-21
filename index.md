@@ -9,10 +9,10 @@ actions:
   - label: "LinkedIn"
     icon: linkedin
     url: "https://www.linkedin.com/in/alan-miranda-075aba111/"
-  - label: "CV (English)"
+  - label: "CV (En)"
     icon: pdf
     url: "https://github.com/amirandamiqueiro/amirandamiqueiro.github.io/blob/master/assets/cvlatex.pdf"
-  - label: "CV (Español)"
+  - label: "CV (Es)"
     icon: pdf
     url: "https://github.com/amirandamiqueiro/amirandamiqueiro.github.io/blob/master/assets/cvlatexes.pdf"
     
