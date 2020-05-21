@@ -5,11 +5,13 @@ image:
   thumbnail: /assets/actividadesmdeo.png
 ---
 
-###### _Información_
+##### _Información_
 - _Artículo sobre actividades para realizar en la ciudad de Montevideo._
 - _Se tiene en consideración una identidad de marca y prácticas de SEO (Search Engine Optimization). La consigna era que debían ser lugares públicos, preferentemente al aire libre._
 - _Categoría: Redacción creativa._
 - _Largo: ~450 palabras._
+
+## Actividades divertidas en Montevideo
 
 Tal vez Montevideo no sea la primera alternativa que nos venga a la mente cuando pensamos en qué hacer para pasarla bien en la ciudad, pero sin lugar a dudas tiene sus encantos y joyitas ocultas que a veces hasta pasan desapercibidas para sus propios habitantes locales. Aquí te contamos algunas de ellas.
 
