@@ -25,7 +25,7 @@ Y desde tiempos inmemoriales, Inspiración también fue siempre la misma. Siempr
 Así como no necesitaba abrir los ojos para creer que estaba en las tinieblas, ahora no necesito abrirlos para saber que vino la luz.
 
 ##### _Información_
-- _Artículo informal de blog._
-- _De humor irreverente y estilo shakespereano._
+- _Artículo informal de blog.
+- _De un humor irreverente, típicamente shakespereano._
 - _Categoría: Redacción creativa._
 - _Largo: ~1000 palabras._
