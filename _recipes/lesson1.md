@@ -56,7 +56,7 @@ But in Spanish, the sentence change a little if we are referring to one dog or m
 
 El perro es lindo	(犬は一つがあります)
 
-Los perros son lindos	(たくさんの犬があります)
+Los perros son lindos	(たくさん犬があります)
 
 So, before we go further, it’s important to remember that in Spanish S1 is not only a word, but a group of words that starts with an article (definite or indefinite) which is followed by a “main word”. Also, that main word has the property of having a gender (masculine or feminine), and a number (singular or plural).
 
