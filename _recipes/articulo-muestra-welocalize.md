@@ -11,6 +11,7 @@ image:
 - _Categoría: Redacción creativa._
 - _Largo: ~450 palabras._
 
+
 ## Artículo:
 
 Tal vez Montevideo no sea la primera alternativa que nos venga a la mente cuando pensamos en qué hacer para pasarla bien en la ciudad, pero sin lugar a dudas tiene sus encantos y joyitas ocultas que a veces hasta pasan desapercibidas para sus propios habitantes locales. Aquí te contamos algunas de ellas.
