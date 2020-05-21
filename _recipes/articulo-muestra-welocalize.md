@@ -7,8 +7,8 @@ image:
 
 ##### _Información_
 - _Artículo sobre actividades para realizar en la ciudad de Montevideo._
-- _La consigna era que debían tratarse de lugares públicos, preferentemente al aire libre, y contar con una cierta cantidad de palabras clave (keywords). Tuve en consideración una identidad de marca y prácticas de SEO (Search Engine Optimization). _
-- _Categoría: Redacción creativa_.
+- _La consigna era que debían tratarse de lugares públicos, preferentemente al aire libre, y contar con una cierta cantidad de palabras clave (keywords). Tuve en consideración una identidad de marca y prácticas de SEO (Search Engine Optimization)._
+- _Categoría: Redacción creativa._
 - _Largo: ~450 palabras._
 
 
