@@ -5,15 +5,6 @@ image:
   thumbnail: /assets/actividadesmdeo.png
 ---
 
-##### _Información_
-- _Artículo sobre actividades para realizar en la ciudad de Montevideo._
-- _La consigna era que debían tratarse de lugares públicos, preferentemente al aire libre, y contar con una cierta cantidad de palabras clave (keywords). Tuve en consideración una identidad de marca y prácticas de SEO (Search Engine Optimization)._
-- _Categoría: Redacción creativa._
-- _Largo: ~450 palabras._
-
-
-## Artículo:
-
 Tal vez Montevideo no sea la primera alternativa que nos venga a la mente cuando pensamos en qué hacer para pasarla bien en la ciudad, pero sin lugar a dudas tiene sus encantos y joyitas ocultas que a veces hasta pasan desapercibidas para sus propios habitantes locales. Aquí te contamos algunas de ellas.
 
 ### Paseo céntrico
@@ -26,3 +17,9 @@ Otro de los lugares divertidos que hay en la ciudad es el Parque Rodó, con su l
 Más que solo una calle que recorre la costa de Montevideo, podría decirse que “la rambla” es una experiencia. Podemos hacer de ella lo que queramos, desde el lugar donde le subimos el kilometraje a nuestras zapatillas deportivas, hasta una forma de meditación dinámica en la que contemplamos asombrosos atardeceres. La rambla es hogar de una pista de patinaje, estaciones deportivas con barras de calistenia, varios parques (incluyendo el propio Parque Rodó), playas, bares, y más. Es el lugar ideal para tomar una cerveza bien fría junto a tus amigos en el verano.
 
 Montevideo no será la más conocida internacionalmente Punta del Este, ni alguno de los balnearios del este, ni Colonia, ni tendrá aguas termales o parques acuáticos como el norte del país. Pero como dijimos, aun así podemos encontrar actividades divertidas en la ciudad, algunas de ellas tan sencillas que hasta se les escapan a los propios montevideanos. Y muchas veces es justamente en lo simple que somos capaces de encontrar lo memorable.
+
+##### _Información_
+- _Artículo sobre actividades para realizar en la ciudad de Montevideo._
+- _La consigna era que debían tratarse de lugares públicos, preferentemente al aire libre, y contar con una cierta cantidad de palabras clave (keywords). Tuve en consideración una identidad de marca y prácticas de SEO (Search Engine Optimization)._
+- _Categoría: Redacción creativa._
+- _Largo: ~450 palabras._
