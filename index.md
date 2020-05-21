@@ -12,7 +12,7 @@ actions:
   - label: "CV (English)"
     icon: pdf
     url: "https://github.com/amirandamiqueiro/amirandamiqueiro.github.io/blob/master/assets/cvlatex.pdf"
-     - label: "CV (Español)"
+  - label: "CV (Español)"
     icon: pdf
     url: "https://github.com/amirandamiqueiro/amirandamiqueiro.github.io/blob/master/assets/cvlatexes.pdf"
     
