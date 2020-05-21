@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-image: /assets/portfolio2.png
+image: /assets/portfolio.png
 layout: collection
 permalink: /recipes/
 collection: recipes
