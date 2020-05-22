@@ -18,4 +18,6 @@ En una primera instancia, los originales —recibidos por el corrector en archiv
 
 (Fuente: [Página de la TUCE](https://www.fhuce.edu.uy/index.php/ensenanza/tecnicaturas/tecnicatura-universitaria-en-correccion-de-estilo "Página de la TUCE").)
 
-Por una cuestión de ética profesional y privacidad, no es posible exponer aquí trabajos anteriores.
+Debidon a una cuestión de ética profesional y privacidad, no es posible exponer aquí trabajos anteriores.
+
+Por trabajos de corrección, por favor comunícate personalmente conmigo.
