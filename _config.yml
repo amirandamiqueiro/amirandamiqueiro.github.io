@@ -25,6 +25,7 @@ author:
   picture: /assets/autor.png
 twitter_username:
 github_username:
+linkedin_username: Alan Miranda
 logo: /assets/AM.png # path of site logo, e.g. "/assets/images/logo.png"
 search: true # true, false (default)
 search_full_content: false # true, false (default)
