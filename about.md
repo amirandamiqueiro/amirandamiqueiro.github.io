@@ -18,7 +18,7 @@ Pero, a efectos prácticos, trabajo como corrector y redactor para distintos med
 actions:
   - label: "CV (EN)"
     icon: pdf
-    url: "https://github.com/amirandamiqueiro/amirandamiqueiro.github.io/blob/master/assets/cvlatex.pdf"
+    url: "https://github.com/amirandamiqueiro/amirandamiqueiro.github.io/tree/master/assets/cvlatex.pdf"
   - label: "CV (ES)"
     icon: pdf
     url: "https://github.com/amirandamiqueiro/amirandamiqueiro.github.io/blob/master/assets/cvlatexes.pdf"
