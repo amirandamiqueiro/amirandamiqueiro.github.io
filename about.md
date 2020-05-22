@@ -3,6 +3,14 @@ title: "Sobre mí"
 layout: about
 ---
 
+actions:
+  - label: "CV (EN)"
+    icon: pdf
+    url: "https://github.com/amirandamiqueiro/amirandamiqueiro.github.io/blob/master/assets/cvlatex.pdf"
+  - label: "CV (ES)"
+    icon: pdf
+    url: "https://github.com/amirandamiqueiro/amirandamiqueiro.github.io/blob/master/assets/cvlatexes.pdf"
+
 Una vez me preguntaron qué era en mi corazón. *Respondí que era escritor.*
 
 La oración anterior lo resume todo, pero para aquellos que busquen alguna etiqueta más, puedo decirles que hice la tecnicatura de corrección de estilo en la Universidad de la República (Uruguay), por lo que supongo que soy corrector.
