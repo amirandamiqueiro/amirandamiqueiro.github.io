@@ -2,6 +2,15 @@
 title: "Sobre mí"
 layout: about
 
+actions:
+  - label: "CV (EN)"
+    icon: pdf
+    url: "https://github.com/amirandamiqueiro/amirandamiqueiro.github.io/tree/master/assets/cvlatex.pdf"
+  - label: "CV (ES)"
+    icon: pdf
+    url: "https://github.com/amirandamiqueiro/amirandamiqueiro.github.io/blob/master/assets/cvlatexes.pdf"
+---
+
 Una vez me preguntaron qué era en mi corazón. *Respondí que era escritor.*
 
 A diferencia de lo que muchos creen, escribir no es algo que los escritores elegimos: sencillamente lo hacemos. 
@@ -15,13 +24,3 @@ Hice la Tecnicatura Universitaria en Corrección de Estilo en la Universidad de 
 A efectos prácticos, trabajo como corrector y redactor para distintos medios. En mi tiempo libre también escribo ficción.
 
 Pero si tuviera que decir qué soy, tendría que decir que un "escuchador", porque en todo momento guardo silencio y escucho qué me susurra esa voz interior. Y luego la sigo.
-
-actions:
-  - label: "CV (EN)"
-    icon: pdf
-    url: "https://github.com/amirandamiqueiro/amirandamiqueiro.github.io/tree/master/assets/cvlatex.pdf"
-  - label: "CV (ES)"
-    icon: pdf
-    url: "https://github.com/amirandamiqueiro/amirandamiqueiro.github.io/blob/master/assets/cvlatexes.pdf"
-    
----
