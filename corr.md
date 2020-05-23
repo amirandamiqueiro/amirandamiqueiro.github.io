@@ -8,7 +8,7 @@ image:
 
 El corrector de estilo debe tener sólidos conocimientos en las distintas áreas de la gramática: morfología (el estudio de la estructura interna de las palabras), sintaxis (estudio de las reglas que gobiernan la formación de las unidades mayores a las palabras dentro de una oración, como lo son los sintagmas) y ortografía.
 
-Según la propia [página de la TUCE](https://www.fhuce.edu.uy/index.php/ensenanza/tecnicaturas/tecnicatura-universitaria-en-correccion-de-estilo "Página de la TUCE").
+Según la propia [página de la TUCE](https://www.fhuce.edu.uy/index.php/ensenanza/tecnicaturas/tecnicatura-universitaria-en-correccion-de-estilo "Página de la TUCE").:
 
 > ##### ¿Qué es la corrección de estilo?
 
