@@ -9,11 +9,20 @@ Afiche principal para la academia de artes marciales Determination Martial Arts.
 
 Hecho a modo de tríptico.
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/afiche1.jpg){: .align-center}
+<figure class="align-center">
+  <a href="#"><img src="{{ site.url }}{{ site.baseurl }}/assets/afiche1.png" alt=""></a>
+  <figcaption> </figcaption>
+</figure>
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/afiche2.jpg){: .align-center}
+<figure class="align-center">
+  <a href="#"><img src="{{ site.url }}{{ site.baseurl }}/assets/afiche2.png" alt=""></a>
+  <figcaption> </figcaption>
+</figure>
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/afiche3.jpg){: .align-center}
+<figure class="align-center">
+  <a href="#"><img src="{{ site.url }}{{ site.baseurl }}/assets/afiche3.png" alt=""></a>
+  <figcaption> </figcaption>
+</figure>
 
 ##### _Información_
 - _Categoría: Diseño / herramientas informáticas._
