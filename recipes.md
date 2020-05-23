@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: Artículos
 layout: collection
 permalink: /recipes/
 collection: recipes
