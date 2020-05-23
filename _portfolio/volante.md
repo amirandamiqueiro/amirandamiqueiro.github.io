@@ -1,5 +1,5 @@
 ---
-title: "Volante Academia"
+title: "Volante"
 image: 
   path: /assets/volante.png
   thumbnail: /assets/volante.png
