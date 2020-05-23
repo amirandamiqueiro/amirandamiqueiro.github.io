@@ -13,5 +13,5 @@ Volante hecho para la academia de artes marciales Determination Martial Arts.
 </figure> 
 
 ##### _Información_
-- _Categoría: Diseño / herramientas informáticas._
+- _Categoría: Diseño / Uso de herramientas informáticas._
 - _Programas: Inkscape y GIMP._
