@@ -1,8 +1,8 @@
 ---
 title: "Afiche"
 image: 
-  path: /assets/afiche1.png
-  thumbnail: /assets/afiche1.png
+  path: /assets/afichethumb.png
+  thumbnail: /assets/afichethumb.png
 ---
 
 Afiche principal para la academia de artes marciales Determination Martial Arts.
