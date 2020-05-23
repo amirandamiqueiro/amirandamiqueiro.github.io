@@ -7,6 +7,11 @@ image:
 
 Volante para la academia de artes marciales Determination Martial Arts.
 
+<figure class="align-center">
+  <a href="#"><img src="{{ site.url }}{{ site.baseurl }}/assets/volante2.png" alt=""></a>
+  <figcaption>Ejemplo. <a href="#">getting some</a> love.</figcaption>
+</figure> 
+
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/volante2.jpg){: .align-center}
 
 ##### _Información_
