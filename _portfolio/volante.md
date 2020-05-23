@@ -2,7 +2,7 @@
 title: "Volante Academia"
 image: 
   path: /assets/volantedma.png
-  thumbnail: /assets/volantedma.png
+  thumbnail: /assets/volante.png
 ---
 
 Volante para la academia de artes marciales Determination Martial Arts.
