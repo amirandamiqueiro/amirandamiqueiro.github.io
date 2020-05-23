@@ -5,7 +5,7 @@ image:
   thumbnail: /assets/volante.png
 ---
 
-Volante para la academia de artes marciales **Determination Martial Arts**.
+Volante para la academia de artes marciales Determination Martial Arts.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/volantefull.jpg){: .align-center}
 
