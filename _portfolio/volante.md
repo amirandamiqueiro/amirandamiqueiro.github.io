@@ -5,8 +5,10 @@ image:
   thumbnail: /assets/volante.png
 ---
 
-Volante para la academia de artes marciales Determination Martial Arts.
+Volante para la academia de artes marciales **Determination Martial Arts**.
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/volantefull.jpg){: .align-center}
 
 ##### _Información_
-- _Categoría: Redacción de contenido._
-- _Diseñador: Martín Olivera._
+- _Categoría: Diseño / herramientas informáticas._
+- _Programas: Inkscape y GIMP._
