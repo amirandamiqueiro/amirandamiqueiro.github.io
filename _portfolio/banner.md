@@ -1,5 +1,5 @@
 ---
-title: "Afiche Academia"
+title: "Afiche"
 image: 
   path: /assets/afiche1.png
   thumbnail: /assets/afiche1.png
