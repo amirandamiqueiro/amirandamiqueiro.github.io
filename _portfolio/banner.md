@@ -11,17 +11,17 @@ Hecho a modo de tríptico.
 
 <figure class="align-center">
   <a href="#"><img src="{{ site.url }}{{ site.baseurl }}/assets/afiche1.png" alt=""></a>
-  <figcaption> </figcaption>
+  <figcaption> Afiche izquierdo. </figcaption>
 </figure>
 
 <figure class="align-center">
   <a href="#"><img src="{{ site.url }}{{ site.baseurl }}/assets/afiche2.png" alt=""></a>
-  <figcaption> </figcaption>
+  <figcaption> Afiche central. </figcaption>
 </figure>
 
 <figure class="align-center">
   <a href="#"><img src="{{ site.url }}{{ site.baseurl }}/assets/afiche3.png" alt=""></a>
-  <figcaption> </figcaption>
+  <figcaption> Afiche derecho. </figcaption>
 </figure>
 
 ##### _Información_
