@@ -1,7 +1,7 @@
 ---
 title: "Volante Academia"
 image: 
-  path: /assets/volantedma.png
+  path: /assets/volante.png
   thumbnail: /assets/volante.png
 ---
 
