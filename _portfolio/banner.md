@@ -5,7 +5,7 @@ image:
   thumbnail: /assets/afichethumb.png
 ---
 
-Afiche principal para la academia de artes marciales Determination Martial Arts.
+Afiche principal hecho para la academia de artes marciales Determination Martial Arts.
 
 Hecho a modo de tríptico.
 
