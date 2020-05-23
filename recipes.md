@@ -1,5 +1,5 @@
 ---
-title: Artículos
+title: Redacción
 layout: collection
 permalink: /recipes/
 collection: recipes
