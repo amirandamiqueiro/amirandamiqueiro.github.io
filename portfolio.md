@@ -2,6 +2,6 @@
 title: Portfolio
 layout: collection
 permalink: /portfolio/
-collection: recipes
+collection: portfolio
 entries_layout: grid
 ---
