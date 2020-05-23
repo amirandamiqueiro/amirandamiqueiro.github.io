@@ -12,8 +12,6 @@ Volante para la academia de artes marciales Determination Martial Arts.
   <figcaption> </figcaption>
 </figure> 
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/volante2.jpg){: .align-center}
-
 ##### _Información_
 - _Categoría: Diseño / herramientas informáticas._
 - _Programas: Inkscape y GIMP._
