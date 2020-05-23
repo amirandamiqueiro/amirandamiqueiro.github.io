@@ -1,19 +1,19 @@
 ---
 title: "Afiche Academia"
 image: 
-  path: /assets/banner1full.png
-  thumbnail: /assets/banner1full.png
+  path: /assets/afiche1.png
+  thumbnail: /assets/afiche1.png
 ---
 
 Afiche principal para la academia de artes marciales Determination Martial Arts.
 
 Hecho a modo de tríptico.
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/banner1full.jpg){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/afiche1.jpg){: .align-center}
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/banner2full.jpg){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/afiche2.jpg){: .align-center}
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/banner3full.jpg){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/afiche3.jpg){: .align-center}
 
 ##### _Información_
 - _Categoría: Diseño / herramientas informáticas._
