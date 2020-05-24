@@ -23,8 +23,6 @@ Ahora bien, dado los tiempos en los que vivimos, uno podría preguntarse por qu�
 
 > Tratar de destacar la importancia de la ortografía como código de comunicación humana tiene mucho de redundante, pero es preciso hacer hincapié una vez más en ello. El manejo de este código requiere un aprendizaje que no es fácil ni placentero. Estas dificultades dan como resultado la existencia de universitarios que no saben estructurar su pensamiento a la hora de expresarlo por escrito y de usuarios del lenguaje que no son capaces de pergeñar cuatro líneas sin sufrir tres dudas ortográficas, sea del campo de la letra, de la sílaba, de la palabra o, con tanta o más frecuencia, de la frase.
 
-No obstante, se trata de algo hasta más básico que eso, ya que, como dice el propio Martínez de Sousa: _saber puntuar bien es saber ordenar las ideas._
+No obstante, se trata de algo hasta más fundmental que eso, ya que, como dice el propio Martínez de Sousa: _saber puntuar bien es saber ordenar las ideas._
 
-La corrección de estilo es imprescindible en toda producción editorial de calidad, pero también lo es en todo mensaje escrito —cualquiera sea su medio— en el que se deseen transmitir las ideas con claridad.
-
-Por trabajos de corrección, las obras se reciben completas y en un archivo de procesador de texto.
+La corrección de estilo es imprescindible en toda producción editorial de calidad, pero también lo es en todo mensaje escrito —cualquiera sea su medio— en el que se deseen transmitir ideas con claridad.
