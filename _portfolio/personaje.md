@@ -19,10 +19,7 @@ Los dibujos fueron hechos por Yamandú Orce, y utilizados con su permiso.
   <figcaption> </figcaption>
 </figure>
 
-actions:
-  - label: "Descargar hoja completa"
-    icon: pdf
-    url: "https://github.com/amirandamiqueiro/amirandamiqueiro.github.io/tree/master/assets/hp.pdf"
+[Descargar hoja completa.](https://github.com/amirandamiqueiro/amirandamiqueiro.github.io/tree/master/assets/hp.pdf "Hoja de personaje").
 
 
 ##### _Información_
