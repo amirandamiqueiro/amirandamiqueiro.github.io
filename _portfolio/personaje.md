@@ -1,14 +1,16 @@
 ---
 title: "Hoja de personaje"
 image: 
-  path: /assets/afichethumb.png
-  thumbnail: /assets/afichethumb.png
+  path: /assets/dice.png
+  thumbnail: /assets/dice.png
 ---
 
 Hoja de creación de un personaje de rol. Propuesta para estudiantes de secundaria.
 
+Los dibujos fueron hechos por Yamandú Orce, y utilizados con su permiso.
+
 <figure class="align-center">
-  <a href="#"><img src="{{ site.url }}{{ site.baseurl }}/assets/hp1" alt=""></a>
+  <a href="#"><img src="{{ site.url }}{{ site.baseurl }}/assets/hp1.png" alt=""></a>
   <figcaption> </figcaption>
 </figure>
 
