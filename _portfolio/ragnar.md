@@ -1,8 +1,8 @@
 ---
 title: "Currículum vitae"
 image: 
-  path: /assets/dice.png
-  thumbnail: /assets/dice.png
+  path: /assets/ragnar.pdf
+  thumbnail: /assets/rangar.pdf
 ---
 
 Currículum vitae mediante LibreOffice. Propuesta para estudiantes de secundaria.
