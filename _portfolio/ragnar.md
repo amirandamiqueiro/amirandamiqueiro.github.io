@@ -1,8 +1,8 @@
 ---
 title: "Currículum vitae"
 image: 
-  path: /assets/ragnar.pdf
-  thumbnail: /assets/rangar.pdf
+  path: /assets/ragnar.png
+  thumbnail: /assets/ragnar.png
 ---
 
 Currículum vitae mediante LibreOffice. Propuesta para estudiantes de secundaria.
