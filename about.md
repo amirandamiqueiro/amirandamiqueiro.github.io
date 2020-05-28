@@ -17,6 +17,4 @@ A diferencia de lo que muchos creen, escribir no es algo que los escritores eleg
 
 Disfruto leer desde toda la vida. Me apasiona la literatura, y los mundos a los que esta nos transporta. Estudio el lenguaje como vehículo de expresión, y las numerosas formas en que este se presenta.
 
-Hice la Tecnicatura Universitaria en Corrección de Estilo en la Universidad de La República (Uruguay), por lo que según el mundo soy corrector de estilo. Escribir lo hago de atrevido: no hay ningún papel que diga que soy escritor.
-
-A efectos prácticos, trabajo como corrector y redactor para distintos medios. En mi tiempo libre también escribo ficción.
+Hice la Tecnicatura Universitaria en Corrección de Estilo en la Universidad de La República (Uruguay). Trabajo como corrector y redactor para distintos medios. En mi tiempo libre también escribo ficción.
